@@ -1,6 +1,6 @@
 # Thinking about a lot of things ✴️ 
 Hey, I'm **Izaque** and I live currently in Brazil in the São Paulo's state and learning new things is fun! (He/him)
-<p> float="left" 
+<p> float="center" 
 [![GitHub Streak](https://streak-stats.demolab.com?user=piccolizq&theme=blood-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 </p>
 
